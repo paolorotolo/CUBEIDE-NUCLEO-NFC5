@@ -54,6 +54,8 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/CUBEIDE-NUCLEO-NFC5/Drivers/BSP/Components/ST25R3911}&quot;"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/CUBEIDE-NUCLEO-NFC5/Middlewares/ST/ndef/Inc/poller}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/CUBEIDE-NUCLEO-NFC5/Middlewares/ST/ndef/Inc/message}&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.1261134518" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>

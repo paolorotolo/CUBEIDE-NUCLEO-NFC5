@@ -59,7 +59,7 @@ extern SPI_HandleTypeDef hspi1;
 
 extern void _Error_Handler(char *, int);
 
-void MX_SPI1_Init(void);
+// void MX_SPI1_Init(void);
 
 /* USER CODE BEGIN Prototypes */
 
