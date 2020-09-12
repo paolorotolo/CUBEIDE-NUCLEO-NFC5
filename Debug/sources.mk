@@ -21,5 +21,8 @@ OBJCOPY_BIN :=
 SUBDIRS := \
 Core/Src \
 Core/Startup \
+Drivers/BSP/Components/ST25R3911 \
+Drivers/BSP/NFC05A1 \
+Drivers/BSP/STM32F4xx-Nucleo \
 Drivers/STM32F4xx_HAL_Driver/Src \
 
