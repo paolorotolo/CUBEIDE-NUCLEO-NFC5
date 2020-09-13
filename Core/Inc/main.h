@@ -32,6 +32,11 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "platform.h"
+#include "st_errno.h"
+#include "rfal_nfc.h"
+
+
 #define B1_Pin GPIO_PIN_13
 #define B1_GPIO_Port GPIOC
 #define IRQ_3911_Pin GPIO_PIN_0

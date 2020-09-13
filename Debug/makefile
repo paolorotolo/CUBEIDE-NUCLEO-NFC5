@@ -8,6 +8,9 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
+-include Middlewares/ST/rfal/Src/subdir.mk
+-include Middlewares/ST/ndef/Src/poller/subdir.mk
+-include Middlewares/ST/ndef/Src/message/subdir.mk
 -include Drivers/STM32F4xx_HAL_Driver/Src/subdir.mk
 -include Drivers/BSP/STM32F4xx-Nucleo/subdir.mk
 -include Drivers/BSP/NFC05A1/subdir.mk
